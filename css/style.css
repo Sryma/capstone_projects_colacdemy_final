@@ -203,9 +203,12 @@ width: 60%;
 }
 .index{
   padding: 16px 0 24px 16px;
+ }
+.index h3{
+  margin: 16px 0 8px 0;
 }
-.index span{
-  padding:8px 0;
+ .index p{
+  margin-top:8px;
 }
 .train img {
     transition: width 1s 750ms ease;
